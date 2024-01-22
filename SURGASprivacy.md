@@ -6,7 +6,6 @@ All of the user information requested by the app is used only to help deliver or
 
 ### Explanation of permissions requested in the app
 
-<br/>
 | Permission | Why it is required |
 | :---: | --- |
 | `android.permission.INTERNET` | This is required to place orders and track the delivery truck assigned to the user's order |
