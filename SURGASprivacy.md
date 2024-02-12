@@ -1,6 +1,6 @@
 ## SURGAS app: Privacy policy
 
-This app is available on Google Play.
+This app is available on App Store and Google Play.
 
 All of the user information requested by the app is used only to help deliver orders placed using the app, and once the order is processed requested information is not saved by the server.
 
